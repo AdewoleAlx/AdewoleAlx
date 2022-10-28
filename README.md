@@ -8,7 +8,7 @@ I started the my tech journey with HTML, then CSS, and now I am on JAVASCRIPT.
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [fihrhub@gmail](mailto:fihrhub@gmail)
-* 🧠  I'm learning Javascrip
+* 🧠  I'm learning Web and App Development
 * 🤝  I'm open to collaborating on Web, App, and Email Development.
 
 ### Skills
